@@ -94,4 +94,5 @@ int main(void) {
         default:
             break;
     }
+    voltage_origin_sum = 0;
 }
